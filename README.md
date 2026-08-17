@@ -13,6 +13,6 @@ I build all sorts of cool shit — **AI systems, cybersecurity, trading tech, de
 
 Founder of **[Aether AI](https://aethersystems.net)**. I like building ideas and seeing how far I can take them.
 
-**Aether** · [Portal](https://app.aethersystems.net/) · [Chat](https://app.aethersystems.net/chat) · [Code](https://app.aethersystems.net/code) · [Design](https://app.aethersystems.net/design) · [Agent](https://github.com/DBarr3/aether-agent)
+**Aether** · 🌀 [Portal](https://app.aethersystems.net/)    💬 [Chat](https://app.aethersystems.net/chat)    💻 [Code](https://app.aethersystems.net/code)    🎨 [Design](https://app.aethersystems.net/design)    🤖 [Agent](https://github.com/DBarr3/aether-agent)
 
 Also built **[FoodTrackers.org](https://foodtrackers.org)** 🥗
