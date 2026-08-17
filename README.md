@@ -15,4 +15,6 @@ Founder of **[Aether AI](https://aethersystems.net)**. I like building ideas and
 
 **Aether** · 🌀 [Portal](https://app.aethersystems.net/)    💬 [Chat](https://app.aethersystems.net/chat)    💻 [Code](https://app.aethersystems.net/code)    🎨 [Design](https://app.aethersystems.net/design)    🤖 [Agent](https://github.com/DBarr3/aether-agent)
 
+**Trading** [Nano library](https://aethersystems.net/nano)
+
 Also built **[FoodTrackers.org](https://foodtrackers.org)** 🥗
