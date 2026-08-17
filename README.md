@@ -1,4 +1,4 @@
-```
+```text
   █████╗  ███████╗ ████████╗ ██╗  ██╗ ███████╗ ██████╗
  ██╔══██╗ ██╔════╝ ╚══██╔══╝ ██║  ██║ ██╔════╝ ██╔══██╗
  ███████║ █████╗      ██║    ███████║ █████╗   ██████╔╝
@@ -8,11 +8,11 @@
 ```
 
 ### Hey, I'm Brandon 👋
-Full-time software developer, open-source contributor. Founder of **[Aether AI](https://aethersystems.net)**.
 
-**Aether Stack:** 🌀[Portal](https://app.aethersystems.net/) · [Design](https://app.aethersystems.net/design) · 💬 [Chat](https://app.aethersystems.net/chat) · 💻 [Code](https://app.aethersystems.net/code) — web · 
-🤖 [Agent](https://github.com/DBarr3/aether-agent) — terminal · ☁️ Cloud — [desktop](https://aethersystems.net)
+I build all sorts of cool shit — **AI systems, cybersecurity, trading tech, dev tools, and more.**
 
-**CyberSecurity:** [Predator](https://aethersystems.net/defense-stack#defense-stack) 💻 Ghost MTD
+Founder of **[Aether AI](https://aethersystems.net)**. Mostly just building things I think are cool and seeing how far I can push them.
 
-**Also founded:** 🥗 [FoodTrackers.org](https://foodtrackers.org) — fitness & meal planning
+**Aether** · [Portal](https://app.aethersystems.net/) · [Chat](https://app.aethersystems.net/chat) · [Code](https://app.aethersystems.net/code) · [Design](https://app.aethersystems.net/design) · [Agent](https://github.com/DBarr3/aether-agent)
+
+Also built **[FoodTrackers.org](https://foodtrackers.org)** 🥗
