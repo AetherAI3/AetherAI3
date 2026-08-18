@@ -7,7 +7,7 @@
  ╚═╝  ╚═╝ ╚══════╝    ╚═╝    ╚═╝  ╚═╝ ╚══════╝ ╚═╝  ╚═╝
 ```
 
-### Hey, I'm Brandon 👋
+### I'm Brandon 👋
 
 I build all sorts of cool shit — **AI systems, cybersecurity, trading tech, dev tools, and whatever else I'm interested in.**
 
