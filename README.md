@@ -22,6 +22,6 @@ Founder of **[Aether AI](https://aethersystems.net)**. I like building ideas and
 - **[Aether Agent](https://github.com/AetherAI3/aether-agent)** — coding agent for your terminal. Hosted models, or fully offline on Ollama.
 - **[Unlimited Context](https://github.com/AetherAI3/Unlimited-Context-LLM)** — billion-token memory for any local model.
 - **[Nano](https://github.com/AetherAI3/Nano)** — plain-text decision rules that replay the same way every time.
-- **Supercluster** — Aether's internal system for coordinating AI engineering work. Not a product; it's how the rest of this gets built.
+- **Supercluster** — Aether's internal system for coordinating development work. Not a product; it's how the rest of this gets built.
 
 Also built **[FoodTrackers.org](https://foodtrackers.org)** 🥗
