@@ -19,6 +19,4 @@ Founder of **[Aether AI](https://aethersystems.net)**. I like building ideas and
 
 **Trading** · 🌀[Aether Terminal](https://aethersystems.net/terminal)      ·     [Nano Strategy library](https://aethersystems.net/nano)      ·     [Automatic Trading System](https://aethersystems.net/ats) 
 
-- **Supercluster** — Aether's internal system for coordinating development work. Not a product; it's how the rest of this gets built.
-
 Also built **[FoodTrackers.org](https://foodtrackers.org)** 🥗
