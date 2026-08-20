@@ -17,7 +17,7 @@ Founder of **[Aether AI](https://aethersystems.net)**. I like building ideas and
 
 **Cybersecurity** [Red Teaming](https://aethersystems.net/defense-stack#defense-stack)
 
-**Trading** · 🌀**[Aether Terminal](https://aethersystems.net/terminal)   ·  [Nano library](https://aethersystems.net/nano)
+**Trading** · 🌀**[Aether Terminal](https://aethersystems.net/terminal)**   ·  [Nano library](https://aethersystems.net/nano)
 
 - **Supercluster** — Aether's internal system for coordinating development work. Not a product; it's how the rest of this gets built.
 
