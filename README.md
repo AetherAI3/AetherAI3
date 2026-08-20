@@ -15,6 +15,8 @@ Founder of **[Aether AI](https://aethersystems.net)**. I like building ideas and
 
 **Aether** · 🌀 [Portal](https://app.aethersystems.net/)    💬 [Chat/Research](https://app.aethersystems.net/chat)    💻 [Code on the web](https://app.aethersystems.net/code)    🎨 [Design](https://app.aethersystems.net/design)    🤖 [Agent IDE](https://github.com/AetherAI3/aether-agent)
 
+**Cybersecurity** [Red Teaming](https://aethersystems.net/defense-stack#defense-stack)
+
 **Trading** [Nano library](https://aethersystems.net/nano)
 
 - **Supercluster** — Aether's internal system for coordinating development work. Not a product; it's how the rest of this gets built.
