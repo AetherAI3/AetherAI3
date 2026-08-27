@@ -1,18 +1,18 @@
 <p align="center">
   <a href="https://aethersystems.net/">
-    <img src="./assets/aether-ai.png" alt="Aether AI — visit the Aether Systems website" width="207">
+    <img src="./assets/aether-ai.png" alt="Aether AI — visit the Aether Ai website" width="207">
   </a>
 </p>
 
 <h1 align="center"> I’m Brandon 👋</h1>
 
 <p align="center">
-  <strong>AI systems · cybersecurity · trading technology · developer tools</strong>
+  <strong>AI Systems · cybersecurity · trading technology · developer tools</strong>
 </p>
 
 <p align="center">
   <a href="https://aethersystems.net/">
-    <img alt="Visit the Aether Systems website" src="https://img.shields.io/badge/AETHER%20SYSTEMS-0A84FF?style=flat-square&logo=ros&logoColor=white">
+    <img alt="Visit the Aether Ai website" src="https://img.shields.io/badge/AETHER%20SYSTEMS-0A84FF?style=flat-square&logo=ros&logoColor=white">
   </a>
   <a href="https://github.com/AetherAI3?tab=repositories">
     <img alt="Browse AetherAI3 repositories" src="https://img.shields.io/badge/OPEN%20SOURCE-151B23?style=flat-square&logo=github&logoColor=white">
