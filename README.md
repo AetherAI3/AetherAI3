@@ -1,48 +1,36 @@
-```text
-  █████╗  ███████╗ ████████╗ ██╗  ██╗ ███████╗ ██████╗
- ██╔══██╗ ██╔════╝ ╚══██╔══╝ ██║  ██║ ██╔════╝ ██╔══██╗
- ███████║ █████╗      ██║    ███████║ █████╗   ██████╔╝
- ██╔══██║ ██╔══╝      ██║    ██╔══██║ ██╔══╝   ██╔══██╗
- ██║  ██║ ███████╗    ██║    ██║  ██║ ███████╗ ██║  ██║
- ╚═╝  ╚═╝ ╚══════╝    ╚═╝    ╚═╝  ╚═╝ ╚══════╝ ╚═╝  ╚═╝
-```
-
-<p>
+<p align="center">
   <a href="https://aethersystems.net/">
-    <img alt="Aether" src="https://img.shields.io/badge/AETHER-0A84FF?style=flat-square&logo=ros&logoColor=white">
-  </a>
-  <a href="https://github.com/AetherAI3?tab=repositories">
-    <img alt="Open" src="https://img.shields.io/badge/OPEN-F68212?style=flat-square&logo=openaccess&logoColor=white">
-  </a>
-  <a href="https://github.com/AetherAI3">
-    <img alt="Predator CI" src="https://img.shields.io/badge/PREDATOR%20CI-6929C4?style=flat-square&logo=qiskit&logoColor=white">
-  </a>
-  <a href="https://github.com/AetherAI3">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AetherAI3&label=VIEWS&color=0A84FF&style=flat-square">
-  </a>
-  <a href="https://github.com/AetherAI3?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/AetherAI3?label=FOLLOWERS&style=flat-square&logo=github&logoColor=white&labelColor=151B23&color=0A84FF">
+    <img src="./assets/aether-ai.png" alt="Aether AI — visit the Aether Systems website" width="207">
   </a>
 </p>
 
-### I'm Brandon 👋
+<h1 align="center">Hi, I’m Brandon 👋</h1>
 
-```yaml
-name: Brandon
-building: Aether Systems
-focus: [AI systems, cybersecurity, trading technology, developer tools]
-```
+<p align="center">
+  <strong>AI systems · cybersecurity · trading technology · developer tools</strong>
+</p>
+
+<p align="center">
+  <a href="https://aethersystems.net/">
+    <img alt="Visit the Aether Systems website" src="https://img.shields.io/badge/AETHER%20SYSTEMS-0A84FF?style=flat-square&logo=ros&logoColor=white">
+  </a>
+  <a href="https://github.com/AetherAI3?tab=repositories">
+    <img alt="Browse AetherAI3 repositories" src="https://img.shields.io/badge/OPEN%20SOURCE-151B23?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/AetherAI3?tab=followers">
+    <img alt="Follow AetherAI3 on GitHub" src="https://img.shields.io/github/followers/AetherAI3?label=FOLLOWERS&style=flat-square&logo=github&logoColor=white&labelColor=151B23&color=0A84FF">
+  </a>
+</p>
+
+---
+
+## Building Aether Systems
 
 I build **AI systems, cybersecurity tooling, trading infrastructure, and developer products.**
 
-<a href="https://aethersystems.net/">
-  <img src="./assets/aether-ai.png" alt="Aether AI" width="205">
-</a>
-
-[Portal](https://app.aethersystems.net/) · [Chat / Research](https://app.aethersystems.net/chat) · [Code](https://app.aethersystems.net/code) · [Design](https://app.aethersystems.net/design) · [Agent IDE](https://github.com/AetherAI3/aether-agent)
-
-**Security** — [Red Teaming](https://aethersystems.net/defense-stack#defense-stack)
-
-**Trading** — [Aether Terminal](https://aethersystems.net/terminal) · [Nano](https://aethersystems.net/nano) · [Automatic Trading System](https://aethersystems.net/ats)
-
-**Elsewhere** — [FoodTrackers.org](https://foodtrackers.org) 🥗
+| Focus | Explore |
+| :--- | :--- |
+| **AI & developer tools** | [Aether Portal](https://app.aethersystems.net/) · [Aether Chat / Research](https://app.aethersystems.net/chat) · [Aether Code](https://app.aethersystems.net/code) · [Aether Design](https://app.aethersystems.net/design) · [Agent IDE](https://github.com/AetherAI3/aether-agent) |
+| **Security** | [Red Teaming](https://aethersystems.net/defense-stack) |
+| **Trading** | [Aether Terminal](https://aethersystems.net/terminal) · [Nano](https://aethersystems.net/nano) · [Automatic Trading System](https://aethersystems.net/ats) |
+| **Elsewhere** | [FoodTrackers.org](https://www.foodtrackers.org/) 🥗 |
