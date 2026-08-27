@@ -20,6 +20,9 @@
   <a href="https://github.com/AetherAI3?tab=followers">
     <img alt="Follow AetherAI3 on GitHub" src="https://img.shields.io/github/followers/AetherAI3?label=FOLLOWERS&style=flat-square&logo=github&logoColor=white&labelColor=151B23&color=0A84FF">
   </a>
+  <a href="https://github.com/AetherAI3">
+    <img alt="AetherAI3 profile views" src="https://komarev.com/ghpvc/?username=AetherAI3&label=VIEWS&color=0A84FF&style=flat-square">
+  </a>
 </p>
 
 ---
@@ -30,7 +33,7 @@ I build all sorts of cool shit. **AI systems, cybersecurity tooling, trading stu
 
 | Focus | Explore |
 | :--- | :--- |
-| **AI & developer tools** | [Aether Portal](https://app.aethersystems.net/) · [Aether Chat / Research](https://app.aethersystems.net/chat) · [Aether Code](https://app.aethersystems.net/code) · [Aether Design](https://app.aethersystems.net/design) · [Agent IDE](https://github.com/AetherAI3/aether-agent) |
-| **Security** | [Red Teaming](https://aethersystems.net/defense-stack) | · [Governance](https://github.com/AetherAI3/PROTOCOL-C) 
-| **Trading** | [Aether Terminal](https://aethersystems.net/terminal) · [Nano](https://aethersystems.net/nano) · [Automatic Trading System](https://aethersystems.net/ats) |
-| **Meal Planning** | [FoodTrackers.org](https://www.foodtrackers.org/) 🥗 |
+| **🧠 AI & developer tools** | [Aether Portal](https://app.aethersystems.net/) · [Aether Chat / Research](https://app.aethersystems.net/chat) · [Aether Code](https://app.aethersystems.net/code) · [Aether Design](https://app.aethersystems.net/design) · [Agent IDE](https://github.com/AetherAI3/aether-agent) |
+| **🛡️ Security** | [Red Teaming](https://aethersystems.net/defense-stack) · [Governance](https://github.com/AetherAI3/PROTOCOL-C) |
+| **📈 Trading** | [Aether Terminal](https://aethersystems.net/terminal) · [Nano](https://aethersystems.net/nano) · [Automatic Trading System](https://aethersystems.net/ats) |
+| **🥗 Meal Planning** | [FoodTrackers.org](https://www.foodtrackers.org/) |
