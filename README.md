@@ -24,7 +24,7 @@
 
 ---
 
-## Building Aether Systems
+## Building Aether
 
 I build **AI systems, cybersecurity tooling, trading infrastructure, and developer products.**
 
