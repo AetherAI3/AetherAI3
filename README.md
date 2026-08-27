@@ -31,6 +31,6 @@ I build **AI systems, cybersecurity tooling, trading infrastructure, and develop
 | Focus | Explore |
 | :--- | :--- |
 | **AI & developer tools** | [Aether Portal](https://app.aethersystems.net/) · [Aether Chat / Research](https://app.aethersystems.net/chat) · [Aether Code](https://app.aethersystems.net/code) · [Aether Design](https://app.aethersystems.net/design) · [Agent IDE](https://github.com/AetherAI3/aether-agent) |
-| **Security** | [Red Teaming](https://aethersystems.net/defense-stack) |
+| **Security** | [Red Teaming](https://aethersystems.net/defense-stack) | · [Governance](https://github.com/AetherAI3/PROTOCOL-C) 
 | **Trading** | [Aether Terminal](https://aethersystems.net/terminal) · [Nano](https://aethersystems.net/nano) · [Automatic Trading System](https://aethersystems.net/ats) |
-| **Elsewhere** | [FoodTrackers.org](https://www.foodtrackers.org/) 🥗 |
+| **Meal Planning** | [FoodTrackers.org](https://www.foodtrackers.org/) 🥗 |
