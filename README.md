@@ -26,7 +26,7 @@
 
 ## Building Aether
 
-I build **AI systems, cybersecurity tooling, trading infrastructure, and developer products.**
+I build all sorts of cool shit. **AI systems, cybersecurity tooling, trading stuff, and developer products.**
 
 | Focus | Explore |
 | :--- | :--- |
