@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I’m Brandon 👋</h1>
+<h1 align="center"> I’m Brandon 👋</h1>
 
 <p align="center">
   <strong>AI systems · cybersecurity · trading technology · developer tools</strong>
