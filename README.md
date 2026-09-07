@@ -27,7 +27,46 @@
 
 ---
 
-Building in  **AI systems, cybersecurity tooling, trading technology, and developer products.**
+Building in **AI systems, cybersecurity tooling, trading technology, and developer products.**
+
+<h3 align="center">⚡ Funded Strikes · Available for Contract Work</h3>
+
+<p align="center">
+  <strong>Pick one bounded outcome. Acceptance tests first. Exact-SHA delivery receipt.</strong>
+</p>
+
+<p align="center">
+  <a href="https://buy.stripe.com/fZu7sE5JnbRS0f2fOZaR205">
+    <img alt="Repo / CI / deploy rescue — $350 deposit" src="https://img.shields.io/badge/01_REPO_CI_RESCUE-$350_DEPOSIT-06B6D4?style=for-the-badge&amp;labelColor=0F172A">
+  </a>
+  <a href="https://buy.stripe.com/4gMbIU8VzcVW0f20U5aR201">
+    <img alt="API / auth / RBAC / billing gate — $750 deposit" src="https://img.shields.io/badge/02_API_AUTH_RBAC-$750_DEPOSIT-0EA5E9?style=for-the-badge&amp;labelColor=0F172A">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://buy.stripe.com/8x27sE9ZDcVW8LyfOZaR202">
+    <img alt="AI-agent / browser workflow — $1,000 deposit" src="https://img.shields.io/badge/03_AI_AGENT_WORKFLOW-$1K_DEPOSIT-0284C7?style=for-the-badge&amp;labelColor=0F172A">
+  </a>
+  <a href="https://buy.stripe.com/00w6oA4Fj3lm2na8mxaR203">
+    <img alt="Authorized app-sec / agent-authority review — $1,000 deposit" src="https://img.shields.io/badge/04_APP_SEC_REVIEW-$1K_DEPOSIT-14B8A6?style=for-the-badge&amp;labelColor=0F172A">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://buy.stripe.com/dRm4gs7RvbRSbXK6epaR204">
+    <img alt="Focused backend / product buildout — $1,500 deposit" src="https://img.shields.io/badge/05_BACKEND_BUILDOUT-$1.5K_DEPOSIT-3B82F6?style=for-the-badge&amp;labelColor=0F172A">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://aethersystems.net/strikes/">
+    <img alt="View all Aether Strikes" src="https://img.shields.io/badge/VIEW_ALL_STRIKES-AETHER-0A84FF?style=for-the-badge&amp;labelColor=0F172A">
+  </a>
+  <a href="https://github.com/sponsors/AetherAI3">
+    <img alt="Sponsor Aether AI on GitHub" src="https://img.shields.io/badge/SPONSOR_AETHER-GITHUB-8B5CF6?style=for-the-badge&amp;labelColor=0F172A&amp;logo=githubsponsors&amp;logoColor=white">
+  </a>
+</p>
 
 | Focus | Explore |
 | :--- | :--- |
