@@ -27,7 +27,7 @@
 
 ---
 
-Building in  **AI systems, cybersecurity tooling, trading stuff, and developer products.**
+Building in  **AI systems, cybersecurity tooling, trading technology, and developer products.**
 
 | Focus | Explore |
 | :--- | :--- |
