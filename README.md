@@ -25,10 +25,6 @@
   </a>
 </p>
 
-<p align="center">
-  Building production <strong>AI systems</strong>, <strong>security tooling</strong>, <strong>trading infrastructure</strong>, and <strong>developer products</strong>.
-</p>
-
 ---
 
 <h2 align="center">⚡ Funded Strikes</h2>
@@ -72,6 +68,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <strong>Building production AI systems · security tooling · trading infrastructure · developer products.</strong>
+</p>
 
 | Focus | Explore |
 | :--- | :--- |
