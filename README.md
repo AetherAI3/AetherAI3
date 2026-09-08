@@ -30,39 +30,45 @@
 <h2 align="center">⚡ Funded Strikes</h2>
 
 <p align="center">
-  <strong>Rapid development, repairs, and security &amp; code review.</strong>
+  <strong>Rapid development, repairs, and security &amp; code review — led by Brandon, built with Aether Supercluster, reviewed with Predator.</strong><br>
+  Scope, price, and timing are agreed before any deposit. Amounts below are starting deposits, not full project prices.
 </p>
 
-I'm Brandon, founder of Aether AI. I direct **Aether Supercluster** for development and repairs, and **Predator** for review and validation. I help SaaS teams and agencies move a focused task from problem to usable result—with a clear scope, reviewed output, and a practical handoff.
+<p align="center">
+  <a href="https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes#request">
+    <img alt="Discuss your project" src="https://img.shields.io/badge/DISCUSS%20YOUR%20PROJECT-START%20HERE-0A84FF?style=for-the-badge&labelColor=0F172A">
+  </a>
+  <a href="https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes">
+    <img alt="View all Aether Strikes" src="https://img.shields.io/badge/VIEW%20ALL%20STRIKES-AETHER-0A84FF?style=for-the-badge&labelColor=0F172A">
+  </a>
+</p>
 
-**[Discuss your project →](https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes#request)** · [See services and selected work](https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes)
+<p align="center">
+  <a href="https://buy.stripe.com/fZu7sE5JnbRS0f2fOZaR205">
+    <img alt="Repo / CI / deploy rescue — $350 deposit" src="https://img.shields.io/badge/01%20REPO%20%2F%20CI%20RESCUE-%24350%20DEPOSIT-06B6D4?style=for-the-badge&labelColor=0F172A">
+  </a>
+  <a href="https://buy.stripe.com/4gMbIU8VzcVW0f20U5aR201">
+    <img alt="API / auth / RBAC / billing gate — $750 deposit" src="https://img.shields.io/badge/02%20API%20%2F%20AUTH%20%2F%20RBAC-%24750%20DEPOSIT-0EA5E9?style=for-the-badge&labelColor=0F172A">
+  </a>
+</p>
 
-| Service | What I can help with | Starting deposit |
-| :--- | :--- | ---: |
-| [Backend features & integrations](https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes#backend-buildout) | A defined API, integration, background job, or backend workflow | $1,500 |
-| [CI, build & release repair](https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes#ci-release-repair) | A failing pipeline, build, package, or deployment path | $350 |
-| [Security & code review](https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes#security-review) | A focused code change, application flow, or set of agent permissions | $1,000 |
-| [API, login & billing fixes](https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes#api-auth-billing) | A broken account flow, access check, or billing integration | $750 |
-| [AI-agent & browser workflows](https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes#agent-workflow) | One useful automation across your tools, APIs, or browser | $1,000 |
+<p align="center">
+  <a href="https://buy.stripe.com/8x27sE9ZDcVW8LyfOZaR202">
+    <img alt="AI-agent / browser workflow — $1,000 deposit" src="https://img.shields.io/badge/03%20AI%20AGENT%20WORKFLOW-%241K%20DEPOSIT-0284C7?style=for-the-badge&labelColor=0F172A">
+  </a>
+  <a href="https://buy.stripe.com/00w6oA4Fj3lm2na8mxaR203">
+    <img alt="Authorized app-sec / agent-authority review — $1,000 deposit" src="https://img.shields.io/badge/04%20APP%20SEC%20REVIEW-%241K%20DEPOSIT-14B8A6?style=for-the-badge&labelColor=0F172A">
+  </a>
+</p>
 
-Deposits count toward the agreed project fee. Full scope, price, and timing are confirmed before payment. Start with a project inquiry if we haven't scoped the work yet.
-
-**Why work with me?** Direct access to the engineer leading the work, public code you can inspect, and verification tied to the agreed deliverable.
-
-<details>
-<summary>Already agreed a scope? Deposit payment links</summary>
-
-Use only the link that matches your agreed quote. These are deposits, not full project prices.
-
-- [Backend / product buildout — $1,500 deposit](https://buy.stripe.com/dRm4gs7RvbRSbXK6epaR204)
-- [Repo / CI / deploy rescue — $350 deposit](https://buy.stripe.com/fZu7sE5JnbRS0f2fOZaR205)
-- [API / auth / RBAC / billing — $750 deposit](https://buy.stripe.com/4gMbIU8VzcVW0f20U5aR201)
-- [AI-agent / browser workflow — $1,000 deposit](https://buy.stripe.com/8x27sE9ZDcVW8LyfOZaR202)
-- [Authorized app-sec / agent-authority review — $1,000 deposit](https://buy.stripe.com/00w6oA4Fj3lm2na8mxaR203)
-
-</details>
-
-To support open-source development separately from contract work: [Sponsor Aether AI on GitHub](https://github.com/sponsors/AetherAI3).
+<p align="center">
+  <a href="https://buy.stripe.com/dRm4gs7RvbRSbXK6epaR204">
+    <img alt="Focused backend / product buildout — $1,500 deposit" src="https://img.shields.io/badge/05%20BACKEND%20BUILDOUT-%241.5K%20DEPOSIT-3B82F6?style=for-the-badge&labelColor=0F172A">
+  </a>
+  <a href="https://github.com/sponsors/AetherAI3">
+    <img alt="Sponsor Aether AI on GitHub" src="https://img.shields.io/badge/SPONSOR%20AETHER-GITHUB-8B5CF6?style=for-the-badge&labelColor=0F172A&logo=githubsponsors&logoColor=white">
+  </a>
+</p>
 
 ---
 
