@@ -30,8 +30,17 @@
 <h2 align="center">⚡ Funded Strikes</h2>
 
 <p align="center">
-  <strong>Available for contract work.</strong><br>
-  Pick one bounded outcome · acceptance tests first · exact-SHA delivery receipt.
+  <strong>Rapid development, repairs, and security &amp; code review — led by Brandon, built with Aether Supercluster, reviewed with Predator.</strong><br>
+  Scope, price, and timing are agreed before any deposit. Amounts below are starting deposits, not full project prices.
+</p>
+
+<p align="center">
+  <a href="https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes#request">
+    <img alt="Discuss your project" src="https://img.shields.io/badge/DISCUSS%20YOUR%20PROJECT-START%20HERE-0A84FF?style=for-the-badge&labelColor=0F172A">
+  </a>
+  <a href="https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes">
+    <img alt="View all Aether Strikes" src="https://img.shields.io/badge/VIEW%20ALL%20STRIKES-AETHER-0A84FF?style=for-the-badge&labelColor=0F172A">
+  </a>
 </p>
 
 <p align="center">
@@ -55,12 +64,6 @@
 <p align="center">
   <a href="https://buy.stripe.com/dRm4gs7RvbRSbXK6epaR204">
     <img alt="Focused backend / product buildout — $1,500 deposit" src="https://img.shields.io/badge/05%20BACKEND%20BUILDOUT-%241.5K%20DEPOSIT-3B82F6?style=for-the-badge&labelColor=0F172A">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://aethersystems.net/strikes/">
-    <img alt="View all Aether Strikes" src="https://img.shields.io/badge/VIEW%20ALL%20STRIKES-AETHER-0A84FF?style=for-the-badge&labelColor=0F172A">
   </a>
   <a href="https://github.com/sponsors/AetherAI3">
     <img alt="Sponsor Aether AI on GitHub" src="https://img.shields.io/badge/SPONSOR%20AETHER-GITHUB-8B5CF6?style=for-the-badge&labelColor=0F172A&logo=githubsponsors&logoColor=white">
