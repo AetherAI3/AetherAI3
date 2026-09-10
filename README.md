@@ -79,5 +79,5 @@
 | Focus | Explore |
 | :--- | :--- |
 | **🧠 AI & developer tools** | [Aether Portal](https://app.aethersystems.net/) · [Aether Chat / Research](https://app.aethersystems.net/chat) · [Aether Code](https://app.aethersystems.net/code) · [Aether Design](https://app.aethersystems.net/design) · [Agent IDE](https://github.com/AetherAI3/aether-agent) |
-| **🛡️ Security** | [Red Teaming](https://aethersystems.net/defense-stack) · [Governance](https://github.com/AetherAI3/PROTOCOL-C) |
-| **📈 Trading** | [Aether Terminal](https://aethersystems.net/terminal) · [Nano](https://aethersystems.net/nano) |
+| **🛡️ Security** | [Red Team](https://github.com/AetherAI3/predator-cli) · [Governance](https://github.com/AetherAI3/PROTOCOL-C) |
+| **📈 Trading** | [Nano](https://aethersystems.net/nano) |
