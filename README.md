@@ -7,7 +7,7 @@
 <h1 align="center">I’m Brandon 👋</h1>
 
 <p align="center">
-  <strong>Founder of Aether AI · Full-stack developer</strong><br>
+  <strong>Founder of Aether AI</strong><br>
   AI  ·  Cybersecurity  ·  Open Source Trading & Developer Tools
 </p>
 
