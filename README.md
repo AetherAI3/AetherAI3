@@ -1,83 +1,82 @@
 <p align="center">
   <a href="https://aethersystems.net/">
-    <img src="./assets/aether-ai.png" alt="Aether AI — visit the Aether AI website" width="207">
+    <img src="./assets/aether-ai.png" alt="Aether AI — visit the website" width="207" height="37">
   </a>
 </p>
 
-<h1 align="center">I’m Brandon 👋</h1>
+<h1 align="center">Hey, I’m Brandon 👋</h1>
 
 <p align="center">
-  <strong>AI Systems · Cybersecurity · Trading Technology · Developer Tools</strong>
+  <strong>Founder of Aether AI · Full-stack developer</strong><br>
+  I build AI tools, websites, and software that helps people get work done.
 </p>
 
 <p align="center">
-  <a href="https://aethersystems.net/">
-    <img alt="Visit Aether Systems" src="https://img.shields.io/badge/AETHER%20SYSTEMS-0A84FF?style=flat-square&logo=ros&logoColor=white">
+  <a href="https://github.com/AetherAI3/Cloud-Desktop" title="Explore Aether Cloud">
+    <img src="./assets/badges/cloud-badge.gif" alt="Cloud Agent — explore Aether Cloud" width="176" height="36">
   </a>
+  <a href="https://github.com/AetherAI3/aether-agent" title="Explore Aether Agent">
+    <img src="./assets/badges/bolt-badge.gif" alt="Bolt Agent — explore Aether Agent" width="176" height="36">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/AetherAI3?tab=repositories">
-    <img alt="Browse AetherAI3 repositories" src="https://img.shields.io/badge/OPEN%20SOURCE-151B23?style=flat-square&logo=github&logoColor=white">
+    <img src="./assets/badges/open-source.svg" alt="Browse my open-source projects" width="176" height="36">
   </a>
-  <a href="https://github.com/AetherAI3?tab=followers">
-    <img alt="Follow AetherAI3 on GitHub" src="https://img.shields.io/github/followers/AetherAI3?label=FOLLOWERS&style=flat-square&logo=github&logoColor=white&labelColor=151B23&color=0A84FF">
-  </a>
-  <a href="https://github.com/AetherAI3">
-    <img alt="AetherAI3 profile views" src="https://komarev.com/ghpvc/?username=AetherAI3&label=VIEWS&color=0A84FF&style=flat-square">
+  <a href="https://aethersites.net/">
+    <img src="./assets/badges/aether-sites.svg" alt="Aether Sites — explore my website collection" width="176" height="36">
   </a>
 </p>
 
----
+## What I’m building
 
-<h2 align="center">⚡ Funded Strikes</h2>
-
-<p align="center">
-  <strong>Rapid development, repairs, and security &amp; code review — led by Brandon, built with Aether Supercluster, reviewed with Predator.</strong><br>
-  Scope, price, and timing are agreed before any deposit. Amounts below are starting deposits, not full project prices.
-</p>
-
-<p align="center">
-  <a href="https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes#request">
-    <img alt="Discuss your project" src="https://img.shields.io/badge/DISCUSS%20YOUR%20PROJECT-START%20HERE-0A84FF?style=for-the-badge&labelColor=0F172A">
-  </a>
-  <a href="https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes">
-    <img alt="View all Aether Strikes" src="https://img.shields.io/badge/VIEW%20ALL%20STRIKES-AETHER-0A84FF?style=for-the-badge&labelColor=0F172A">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://buy.stripe.com/fZu7sE5JnbRS0f2fOZaR205">
-    <img alt="Repo / CI / deploy rescue — $350 deposit" src="https://img.shields.io/badge/01%20REPO%20%2F%20CI%20RESCUE-%24350%20DEPOSIT-06B6D4?style=for-the-badge&labelColor=0F172A">
-  </a>
-  <a href="https://buy.stripe.com/4gMbIU8VzcVW0f20U5aR201">
-    <img alt="API / auth / RBAC / billing gate — $750 deposit" src="https://img.shields.io/badge/02%20API%20%2F%20AUTH%20%2F%20RBAC-%24750%20DEPOSIT-0EA5E9?style=for-the-badge&labelColor=0F172A">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://buy.stripe.com/8x27sE9ZDcVW8LyfOZaR202">
-    <img alt="AI-agent / browser workflow — $1,000 deposit" src="https://img.shields.io/badge/03%20AI%20AGENT%20WORKFLOW-%241K%20DEPOSIT-0284C7?style=for-the-badge&labelColor=0F172A">
-  </a>
-  <a href="https://buy.stripe.com/00w6oA4Fj3lm2na8mxaR203">
-    <img alt="Authorized app-sec / agent-authority review — $1,000 deposit" src="https://img.shields.io/badge/04%20APP%20SEC%20REVIEW-%241K%20DEPOSIT-14B8A6?style=for-the-badge&labelColor=0F172A">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://buy.stripe.com/dRm4gs7RvbRSbXK6epaR204">
-    <img alt="Focused backend / product buildout — $1,500 deposit" src="https://img.shields.io/badge/05%20BACKEND%20BUILDOUT-%241.5K%20DEPOSIT-3B82F6?style=for-the-badge&labelColor=0F172A">
-  </a>
-  <a href="https://github.com/sponsors/AetherAI3">
-    <img alt="Sponsor Aether AI on GitHub" src="https://img.shields.io/badge/SPONSOR%20AETHER-GITHUB-8B5CF6?style=for-the-badge&labelColor=0F172A&logo=githubsponsors&logoColor=white">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <strong>Building production AI systems · security tooling · trading infrastructure · developer products.</strong>
-</p>
-
-| Focus | Explore |
+| Project | What it does |
 | :--- | :--- |
-| **🧠 AI & developer tools** | [Aether Portal](https://app.aethersystems.net/) · [Aether Chat / Research](https://app.aethersystems.net/chat) · [Aether Code](https://app.aethersystems.net/code) · [Aether Design](https://app.aethersystems.net/design) · [Agent IDE](https://github.com/AetherAI3/aether-agent) |
-| **🛡️ Security** | [Red Team](https://github.com/AetherAI3/predator-cli) · [Governance](https://github.com/AetherAI3/PROTOCOL-C) |
-| **📈 Trading** | [Nano](https://aethersystems.net/nano) |
+| **[Aether Agent](https://github.com/AetherAI3/aether-agent)** | A terminal coding agent that reads your repo, makes changes, and runs your checks. |
+| **[Aether Cloud](https://github.com/AetherAI3/Cloud-Desktop)** | The Aether desktop app for agents, projects, and workflows. Currently in beta. |
+| **[Predator](https://github.com/AetherAI3/predator-cli)** | AI + quantum research for finding and fixing software faults. Public showcase; research engine is private. |
+| **[Unlimited Context](https://github.com/AetherAI3/Unlimited-Context-LLM)** | Stores context on disk and retrieves relevant pieces during an AI run. |
+| **[Protocol-C](https://github.com/AetherAI3/PROTOCOL-C)** | Signed records that let you check whether software decision logs have changed. |
+| **[Aether Sites](https://aethersites.net/)** | My website concepts and builds. Find a style you like and we can make it yours. |
+
+**Try Aether:** [Online](https://aethersystems.net/aether-online) · [Chat](https://app.aethersystems.net/chat) · [Code](https://app.aethersystems.net/code) · [Design](https://app.aethersystems.net/design) · [Trading tools](https://aethersystems.net/ats)
+
+## Need something built or fixed?
+
+I take on focused development work through **[Aether Strikes](https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes)**: backend features, API and login fixes, broken builds, AI workflows, and security & code reviews.
+
+You work directly with me. I use AI and development tools, review the work, and hand over the changes with checks you can rerun. We agree on the scope, price, and timing before any deposit.
+
+<p>
+  <a href="https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes#request">
+    <img src="./assets/badges/work-with-me.svg" alt="Work with me — discuss your project" width="176" height="36">
+  </a>
+</p>
+
+For a website, **[browse Aether Sites](https://aethersites.net/)** or **[tell me what you need](https://aethersites.net/#contact)**.
+
+<details>
+<summary><strong>Starting deposits & agreed payment links</strong></summary>
+
+These are starting deposits, not full project prices. Use a payment link after we’ve agreed on your quote.
+
+| Work | Starting deposit |
+| :--- | ---: |
+| CI, build & release repair | [$350](https://buy.stripe.com/fZu7sE5JnbRS0f2fOZaR205) |
+| API, login & billing fixes | [$750](https://buy.stripe.com/4gMbIU8VzcVW0f20U5aR201) |
+| AI-agent & browser workflows | [$1,000](https://buy.stripe.com/8x27sE9ZDcVW8LyfOZaR202) |
+| Security & code review | [$1,000](https://buy.stripe.com/00w6oA4Fj3lm2na8mxaR203) |
+| Backend features & integrations | [$1,500](https://buy.stripe.com/dRm4gs7RvbRSbXK6epaR204) |
+
+</details>
+
+## Support the open source
+
+If something here helps you, a star, bug report, or contribution means a lot. Pick a project and take a look around.
+
+<p>
+  <a href="https://github.com/sponsors/AetherAI3">
+    <img src="./assets/badges/sponsor.svg" alt="Sponsor Aether AI on GitHub" width="176" height="36">
+  </a>
+</p>
