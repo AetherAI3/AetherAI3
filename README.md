@@ -13,10 +13,10 @@
 
 <p align="center">
   <a href="https://github.com/AetherAI3/Cloud-Desktop" title="Explore Aether Cloud">
-    <img src="./assets/badges/cloud-badge.gif" alt="Cloud Agent — explore Aether Cloud" width="176" height="36">
+    <img src="./assets/badges/cloud-icon.gif" alt="Explore Aether Cloud" width="48" height="48">
   </a>
   <a href="https://github.com/AetherAI3/aether-agent" title="Explore Aether Agent">
-    <img src="./assets/badges/bolt-badge.gif" alt="Bolt Agent — explore Aether Agent" width="176" height="36">
+    <img src="./assets/badges/bolt-icon.gif" alt="Explore Aether Agent" width="48" height="48">
   </a>
 </p>
 
@@ -29,18 +29,19 @@
   </a>
 </p>
 
-## What I’m building
-
-| Project | What it does |
+| Focus | Explore |
 | :--- | :--- |
-| **[Aether Agent](https://github.com/AetherAI3/aether-agent)** | A terminal coding agent that reads your repo, makes changes, and runs your checks. |
-| **[Aether Cloud](https://github.com/AetherAI3/Cloud-Desktop)** | The Aether desktop app for agents, projects, and workflows. Currently in beta. |
-| **[Predator](https://github.com/AetherAI3/predator-cli)** | AI + quantum research for finding and fixing software faults. Public showcase; research engine is private. |
-| **[Unlimited Context](https://github.com/AetherAI3/Unlimited-Context-LLM)** | Stores context on disk and retrieves relevant pieces during an AI run. |
-| **[Protocol-C](https://github.com/AetherAI3/PROTOCOL-C)** | Signed records that let you check whether software decision logs have changed. |
-| **[Aether Sites](https://aethersites.net/)** | My website concepts and builds. Find a style you like and we can make it yours. |
+| **AI & developer tools** | [Agent](https://github.com/AetherAI3/aether-agent) · [Cloud](https://github.com/AetherAI3/Cloud-Desktop) · [Unlimited Context](https://github.com/AetherAI3/Unlimited-Context-LLM) |
+| **Security & research** | [Predator](https://github.com/AetherAI3/predator-cli) · [Protocol-C](https://github.com/AetherAI3/PROTOCOL-C) |
+| **Websites** | [Aether Sites](https://aethersites.net/) |
 
-**Try Aether:** [Online](https://aethersystems.net/aether-online) · [Chat](https://app.aethersystems.net/chat) · [Code](https://app.aethersystems.net/code) · [Design](https://app.aethersystems.net/design) · [Trading tools](https://aethersystems.net/ats)
+<p align="center">
+  <a href="https://aethersystems.net/aether-online"><img src="./assets/badges/online.svg" alt="Open Aether Online" width="106" height="30"></a>
+  <a href="https://app.aethersystems.net/chat"><img src="./assets/badges/chat.svg" alt="Open Aether Chat" width="106" height="30"></a>
+  <a href="https://app.aethersystems.net/code"><img src="./assets/badges/code.svg" alt="Open Aether Code" width="106" height="30"></a>
+  <a href="https://app.aethersystems.net/design"><img src="./assets/badges/design.svg" alt="Open Aether Design" width="106" height="30"></a>
+  <a href="https://aethersystems.net/ats"><img src="./assets/badges/trading.svg" alt="Explore Aether trading tools" width="106" height="30"></a>
+</p>
 
 ## Need something built or fixed?
 
