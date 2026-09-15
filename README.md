@@ -4,11 +4,11 @@
   </a>
 </p>
 
-<h1 align="center">Hey, I’m Brandon 👋</h1>
+<h1 align="center">I’m Brandon 👋</h1>
 
 <p align="center">
   <strong>Founder of Aether AI · Full-stack developer</strong><br>
-  I build AI tools, websites, and software that helps people get work done.
+  AI  ·  Cybersecurity  ·  Trading & Developer Tools
 </p>
 
 <p align="center">
