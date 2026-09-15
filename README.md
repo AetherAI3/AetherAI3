@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>Founder of Aether AI · Full-stack developer</strong><br>
-  AI  ·  Cybersecurity  ·  OSS Trading & Developer Tools
+  AI  ·  Cybersecurity  ·  Open Scource Trading & Developer Tools
 </p>
 
 <p align="center">
