@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>Founder of Aether AI</strong><br>
-  AI  ·  Cybersecurity  ·  Open Source Trading & Developer Tools
+  AI  ·  Cybersecurity  ·  Open Source   ·   Trading & Developer Tools
 </p>
 
 <p align="center">
