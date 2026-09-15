@@ -4,20 +4,15 @@
   </a>
 </p>
 
-<h1 align="center">I’m Brandon 👋</h1>
+<h1 align="center">
+  <a href="https://github.com/AetherAI3/Cloud-Desktop" title="Explore Aether Cloud"><img src="./assets/badges/cloud-icon.gif" alt="Explore Aether Cloud" width="48" height="48" align="middle"></a>
+  &nbsp;I’m Brandon&nbsp;
+  <a href="https://github.com/AetherAI3/aether-agent" title="Explore Aether Agent"><img src="./assets/badges/bolt-icon.gif" alt="Explore Aether Agent" width="48" height="48" align="middle"></a>
+</h1>
 
 <p align="center">
   <strong>Founder of Aether AI</strong><br>
   AI  ·  Cybersecurity  ·  Open Source   ·   Trading & Developer Tools
-</p>
-
-<p align="center">
-  <a href="https://github.com/AetherAI3/Cloud-Desktop" title="Explore Aether Cloud">
-    <img src="./assets/badges/cloud-icon.gif" alt="Explore Aether Cloud" width="48" height="48">
-  </a>
-  <a href="https://github.com/AetherAI3/aether-agent" title="Explore Aether Agent">
-    <img src="./assets/badges/bolt-icon.gif" alt="Explore Aether Agent" width="48" height="48">
-  </a>
 </p>
 
 <p align="center">
