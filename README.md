@@ -66,39 +66,55 @@
 
 <h2 align="center">Need something built or fixed?</h2>
 
-I take on focused development work through **[Aether Strikes](https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes)**: backend features, API and login fixes, broken builds, AI workflows, and security & code reviews.
-
-You work directly with me. I use AI and development tools, review the work, and hand over the changes with checks you can rerun. We agree on the scope, price, and timing before any deposit.
-
 <p align="center">
-  <a href="https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes#request">
-    <img src="./assets/badges/work-with-me.svg" alt="Work with me — discuss your project" width="176" height="36">
-  </a>
+  <strong>Focused development through <a href="https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes">Aether Strikes</a>.</strong><br>
+  Backend features · API &amp; login fixes · Build repairs<br>
+  AI workflows · Security &amp; code reviews
 </p>
 
-For a website, **[browse Aether Sites](https://aethersites.net/)** or **[tell me what you need](https://aethersites.net/#contact)**.
+<p align="center">
+  Work directly with me. AI-assisted development, reviewed changes,<br>
+  and checks you can rerun.<br>
+  <sub>Scope, price, and timing agreed before any deposit.</sub>
+</p>
 
-<details>
-<summary><strong>Starting deposits & agreed payment links</strong></summary>
+<p align="center">
+  <a href="https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes#request"><img src="./assets/badges/work-with-me.svg" alt="Work with me — discuss your project" width="176" height="36"></a>
+</p>
 
-These are starting deposits, not full project prices. Use a payment link after we’ve agreed on your quote.
+<p align="center">
+  <strong>Need a website?</strong><br>
+  <a href="https://aethersites.net/">Browse Aether Sites</a> · <a href="https://aethersites.net/#contact">Tell me what you need</a>
+</p>
 
-| Work | Starting deposit |
-| :--- | ---: |
-| CI, build & release repair | [$350](https://buy.stripe.com/fZu7sE5JnbRS0f2fOZaR205) |
-| API, login & billing fixes | [$750](https://buy.stripe.com/4gMbIU8VzcVW0f20U5aR201) |
-| AI-agent & browser workflows | [$1,000](https://buy.stripe.com/8x27sE9ZDcVW8LyfOZaR202) |
-| Security & code review | [$1,000](https://buy.stripe.com/00w6oA4Fj3lm2na8mxaR203) |
-| Backend features & integrations | [$1,500](https://buy.stripe.com/dRm4gs7RvbRSbXK6epaR204) |
-
-</details>
+<div align="center">
+  <details>
+    <summary><strong>Starting deposits &amp; agreed payment links</strong></summary>
+    <p>
+      These are starting deposits, not full project prices.<br>
+      Use a payment link after we’ve agreed on your quote.
+    </p>
+    <table align="center">
+      <thead>
+        <tr><th align="left" scope="col">Work</th><th align="right" scope="col">Starting deposit</th></tr>
+      </thead>
+      <tbody>
+        <tr><td align="left">CI, build &amp; release repair</td><td align="right"><a href="https://buy.stripe.com/fZu7sE5JnbRS0f2fOZaR205">$350</a></td></tr>
+        <tr><td align="left">API, login &amp; billing fixes</td><td align="right"><a href="https://buy.stripe.com/4gMbIU8VzcVW0f20U5aR201">$750</a></td></tr>
+        <tr><td align="left">AI-agent &amp; browser workflows</td><td align="right"><a href="https://buy.stripe.com/8x27sE9ZDcVW8LyfOZaR202">$1,000</a></td></tr>
+        <tr><td align="left">Security &amp; code review</td><td align="right"><a href="https://buy.stripe.com/00w6oA4Fj3lm2na8mxaR203">$1,000</a></td></tr>
+        <tr><td align="left">Backend features &amp; integrations</td><td align="right"><a href="https://buy.stripe.com/dRm4gs7RvbRSbXK6epaR204">$1,500</a></td></tr>
+      </tbody>
+    </table>
+  </details>
+</div>
 
 <h2 align="center">Support the open source</h2>
 
-If something here helps you, a star, bug report, or contribution means a lot. Pick a project and take a look around.
+<p align="center">
+  If a project helps you, a star, bug report, or contribution means a lot.
+</p>
 
 <p align="center">
-  <a href="https://github.com/sponsors/AetherAI3">
-    <img src="./assets/badges/sponsor.svg" alt="Sponsor Aether AI on GitHub" width="176" height="36">
-  </a>
+  <a href="https://github.com/sponsors/AetherAI3"><img src="./assets/badges/sponsor.svg" alt="Sponsor Aether AI on GitHub" width="176" height="36"></a>
 </p>
