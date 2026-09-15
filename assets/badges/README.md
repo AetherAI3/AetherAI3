@@ -4,12 +4,14 @@ The Cloud and Bolt badges and icons are the original user-supplied animations, c
 
 Four matching SVG badges provide useful navigation: **Open Source**, **Aether Sites**, **Work With Me**, and **Sponsor**. Their pixel icons, dark background, border, and divider follow the supplied badge style. Text is stored as vector paths, so these badges need no external fonts, scripts, or image service.
 
+The centered primary navigation adds **Aether AI** and **App Portal** badges. The Aether AI badge reuses the website mark from [`predator-cli/docs/assets/aether-website-mark.svg`](https://github.com/AetherAI3/predator-cli/blob/main/docs/assets/aether-website-mark.svg); its Æ symbol uses the original system-font fallback. The labels are vector paths. Both badges are self-contained.
+
 Five smaller SVG badges link to **Online**, **Chat**, **Code**, **Design**, and **Trading**. They share a 30-pixel height, line icons, and vector text.
 
 | Assets | Display size |
 | --- | --- |
 | Cloud and Bolt icon-only GIFs | 48 × 48 |
-| Cloud, Bolt, Open Source, Aether Sites, Work With Me, Sponsor badges | 176 × 36 |
+| Cloud, Bolt, Aether AI, App Portal, Open Source, Aether Sites, Work With Me, Sponsor badges | 176 × 36 |
 | Online, Chat, Code, Design, Trading badges | 106 × 30 |
 
 Use these display sizes for crisp pixels. Link destinations and accessible descriptions belong to the surrounding README link and image.

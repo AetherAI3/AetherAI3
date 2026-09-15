@@ -21,6 +21,15 @@
 </p>
 
 <p align="center">
+  <a href="https://aethersystems.net/">
+    <img src="./assets/badges/aether-ai.svg" alt="Aether AI — visit the website" width="176" height="36">
+  </a>
+  <a href="https://app.aethersystems.net/">
+    <img src="./assets/badges/app-portal.svg" alt="App Portal — open the Aether workspace" width="176" height="36">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/AetherAI3?tab=repositories">
     <img src="./assets/badges/open-source.svg" alt="Browse my open-source projects" width="176" height="36">
   </a>
@@ -29,11 +38,28 @@
   </a>
 </p>
 
-| Focus | Explore |
-| :--- | :--- |
-| **AI & developer tools** | [Agent](https://github.com/AetherAI3/aether-agent) · [Cloud](https://github.com/AetherAI3/Cloud-Desktop) · [Unlimited Context](https://github.com/AetherAI3/Unlimited-Context-LLM) |
-| **Security & research** | [Predator](https://github.com/AetherAI3/predator-cli) · [Protocol-C](https://github.com/AetherAI3/PROTOCOL-C) |
-| **Websites** | [Aether Sites](https://aethersites.net/) |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="left" scope="col">Focus</th>
+      <th align="left" scope="col">Explore</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>AI &amp; developer tools</strong></td>
+      <td><a href="https://github.com/AetherAI3/aether-agent">Agent</a> · <a href="https://github.com/AetherAI3/Cloud-Desktop">Cloud</a> · <a href="https://github.com/AetherAI3/Unlimited-Context-LLM">Unlimited Context</a></td>
+    </tr>
+    <tr>
+      <td><strong>Security &amp; research</strong></td>
+      <td><a href="https://github.com/AetherAI3/predator-cli">Predator</a> · <a href="https://github.com/AetherAI3/PROTOCOL-C">Protocol-C</a></td>
+    </tr>
+    <tr>
+      <td><strong>Websites</strong></td>
+      <td><a href="https://aethersites.net/">Aether Sites</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="center">
   <a href="https://aethersystems.net/aether-online"><img src="./assets/badges/online.svg" alt="Open Aether Online" width="106" height="30"></a>
@@ -43,13 +69,13 @@
   <a href="https://aethersystems.net/ats"><img src="./assets/badges/trading.svg" alt="Explore Aether trading tools" width="106" height="30"></a>
 </p>
 
-## Need something built or fixed?
+<h2 align="center">Need something built or fixed?</h2>
 
 I take on focused development work through **[Aether Strikes](https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes)**: backend features, API and login fixes, broken builds, AI workflows, and security & code reviews.
 
 You work directly with me. I use AI and development tools, review the work, and hand over the changes with checks you can rerun. We agree on the scope, price, and timing before any deposit.
 
-<p>
+<p align="center">
   <a href="https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes#request">
     <img src="./assets/badges/work-with-me.svg" alt="Work with me — discuss your project" width="176" height="36">
   </a>
@@ -72,11 +98,11 @@ These are starting deposits, not full project prices. Use a payment link after w
 
 </details>
 
-## Support the open source
+<h2 align="center">Support the open source</h2>
 
 If something here helps you, a star, bug report, or contribution means a lot. Pick a project and take a look around.
 
-<p>
+<p align="center">
   <a href="https://github.com/sponsors/AetherAI3">
     <img src="./assets/badges/sponsor.svg" alt="Sponsor Aether AI on GitHub" width="176" height="36">
   </a>
