@@ -86,7 +86,6 @@
 
 <p align="center">
   <a href="https://aethersystems.net/actions/design-partner">Predator CI</a> · $39/month per qualified repo + hosted UVT · private preview<br>
-  Need development or a website? <a href="https://aethersystems.net/contact">Contact me</a> · <a href="https://aethersites.net/">Aether Sites</a>
 </p>
 
 <h2 align="center">Support the open source</h2>
