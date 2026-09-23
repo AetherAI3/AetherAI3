@@ -67,24 +67,21 @@
 <h2 align="center">Predator Strikes</h2>
 
 <p align="center">
-  <strong>Predator models 359 attack chains across MITRE ATT&amp;CK tactics.</strong><br>
-  Pick a focused mission to fix a known CVE or investigate a fresh variant in your code.
+  <a href="https://aethersystems.net/defense-stack#defense-stack"><img src="./assets/predator-attack-chains.svg" alt="Predator models 359 attack chains across MITRE ATT&amp;CK; each mission follows its agreed scope" width="704"></a>
 </p>
 
-<table align="center">
-  <thead><tr><th align="left" scope="col">Mission</th><th align="right" scope="col">One-time</th></tr></thead>
-  <tbody>
-    <tr><td><a href="https://aethersystems.net/strikes/#cve-fix">Known CVE Fix</a> · one CVE or shared root cause</td><td align="right">$199</td></tr>
-    <tr><td><a href="https://aethersystems.net/strikes/#discovery">Predator Discovery</a> · focused search for a fresh variant</td><td align="right">$299</td></tr>
-    <tr><td><a href="https://aethersystems.net/strikes/#deep-discovery">Deep Discovery</a> · threat paths and bounded chaining</td><td align="right">$499</td></tr>
-  </tbody>
-</table>
+<p align="center">
+  Fix a known CVE or search for a fresh variant in one authorized repo.<br>
+  <a href="https://aethersystems.net/strikes/#cve-fix">Known CVE Fix · $199</a> &nbsp;·&nbsp;
+  <a href="https://aethersystems.net/strikes/#discovery">Predator Discovery · $299</a> &nbsp;·&nbsp;
+  <a href="https://aethersystems.net/strikes/#deep-discovery">Deep Discovery · $499</a>
+</p>
 
 <p align="center">
   <a href="https://aethersystems.net/strikes/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=predator-strikes#request"><img src="./assets/badges/work-with-me.svg" alt="Request a Predator Strike" width="176" height="36"></a><br>
-  <sub>One authorized repo; scope confirmed before payment. The 359 chains are a model library, not a promise of coverage or findings.</sub><br>
-  <a href="https://github.com/AetherAI3/Predator#read-the-evidence">Public Predator research and evidence</a>
-  <sub>(controlled faults, not customer CVEs)</sub>
+  <sub>Scope before payment · no guaranteed finding · patch when feasible.</sub><br>
+  <a href="https://github.com/AetherAI3/Predator#read-the-evidence">Public Predator evidence</a>
+  <sub>(controlled-fault research, not customer CVEs)</sub>
 </p>
 
 <p align="center">
