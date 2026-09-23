@@ -64,50 +64,33 @@
   <a href="https://aethersystems.net/ats"><img src="./assets/badges/trading.svg" alt="Explore Aether trading tools" width="106" height="30"></a>
 </p>
 
-<h2 align="center">Need something built or fixed?</h2>
+<h2 align="center">Predator Strikes</h2>
 
 <p align="center">
-  <strong>Focused development through <a href="https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes">Aether Strikes</a>.</strong><br>
-  Backend features · API &amp; login fixes · Build repairs<br>
-  AI workflows · Security &amp; code reviews
+  <strong>Predator models 359 attack chains across MITRE ATT&amp;CK tactics.</strong><br>
+  Pick a focused mission to fix a known CVE or investigate a fresh variant in your code.
+</p>
+
+<table align="center">
+  <thead><tr><th align="left" scope="col">Mission</th><th align="right" scope="col">One-time</th></tr></thead>
+  <tbody>
+    <tr><td><a href="https://aethersystems.net/strikes/#cve-fix">Known CVE Fix</a> · one CVE or shared root cause</td><td align="right">$199</td></tr>
+    <tr><td><a href="https://aethersystems.net/strikes/#discovery">Predator Discovery</a> · focused search for a fresh variant</td><td align="right">$299</td></tr>
+    <tr><td><a href="https://aethersystems.net/strikes/#deep-discovery">Deep Discovery</a> · threat paths and bounded chaining</td><td align="right">$499</td></tr>
+  </tbody>
+</table>
+
+<p align="center">
+  <a href="https://aethersystems.net/strikes/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=predator-strikes#request"><img src="./assets/badges/work-with-me.svg" alt="Request a Predator Strike" width="176" height="36"></a><br>
+  <sub>One authorized repo; scope confirmed before payment. The 359 chains are a model library, not a promise of coverage or findings.</sub><br>
+  <a href="https://github.com/AetherAI3/Predator#read-the-evidence">Public Predator research and evidence</a>
+  <sub>(controlled faults, not customer CVEs)</sub>
 </p>
 
 <p align="center">
-  Work directly with me. AI-assisted development, reviewed changes,<br>
-  and checks you can rerun.<br>
-  <sub>Scope, price, and timing agreed before any deposit.</sub>
+  <a href="https://aethersystems.net/actions/design-partner">Predator CI</a> · $39/month per qualified repo + hosted UVT · private preview<br>
+  Need development or a website? <a href="https://aethersystems.net/contact">Contact me</a> · <a href="https://aethersites.net/">Aether Sites</a>
 </p>
-
-<p align="center">
-  <a href="https://aethersystems.net/strikes/?utm_source=github&utm_medium=profile&utm_campaign=strikes#request"><img src="./assets/badges/work-with-me.svg" alt="Work with me — discuss your project" width="176" height="36"></a>
-</p>
-
-<p align="center">
-  <strong>Need a website?</strong><br>
-  <a href="https://aethersites.net/">Browse Aether Sites</a> · <a href="https://aethersites.net/#contact">Tell me what you need</a>
-</p>
-
-<div align="center">
-  <details>
-    <summary><strong>Starting deposits &amp; agreed payment links</strong></summary>
-    <p>
-      These are starting deposits, not full project prices.<br>
-      Use a payment link after we’ve agreed on your quote.
-    </p>
-    <table align="center">
-      <thead>
-        <tr><th align="left" scope="col">Work</th><th align="right" scope="col">Starting deposit</th></tr>
-      </thead>
-      <tbody>
-        <tr><td align="left">CI, build &amp; release repair</td><td align="right"><a href="https://buy.stripe.com/fZu7sE5JnbRS0f2fOZaR205">$350</a></td></tr>
-        <tr><td align="left">API, login &amp; billing fixes</td><td align="right"><a href="https://buy.stripe.com/4gMbIU8VzcVW0f20U5aR201">$750</a></td></tr>
-        <tr><td align="left">AI-agent &amp; browser workflows</td><td align="right"><a href="https://buy.stripe.com/8x27sE9ZDcVW8LyfOZaR202">$1,000</a></td></tr>
-        <tr><td align="left">Security &amp; code review</td><td align="right"><a href="https://buy.stripe.com/00w6oA4Fj3lm2na8mxaR203">$1,000</a></td></tr>
-        <tr><td align="left">Backend features &amp; integrations</td><td align="right"><a href="https://buy.stripe.com/dRm4gs7RvbRSbXK6epaR204">$1,500</a></td></tr>
-      </tbody>
-    </table>
-  </details>
-</div>
 
 <h2 align="center">Support the open source</h2>
 
