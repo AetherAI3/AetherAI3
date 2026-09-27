@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="704" height="174" viewBox="0 0 704 174" role="img" aria-labelledby="title description">
-  <title id="title">Predator: 359 modeled attack chains</title>
-  <desc id="description">A compact dark card showing 359 modeled attack chains across MITRE ATT&amp;CK Enterprise tactics, plus an AI injection area. A mission's actual coverage is set by scope.</desc>
+  <title id="title">Predator Gen3 registry: 396 modeled attack chains</title>
+  <desc id="description">A compact dark card showing 396 unique modeled chains across Enterprise ATT&amp;CK-aligned categories and AI and MCP extensions. This is a Gen3 registry count, not a finding count or a promise of mission coverage.</desc>
   <defs>
     <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#141923"/>
@@ -29,13 +29,13 @@
     <path d="M36 140h632" stroke="#674146" stroke-opacity="0.7"/>
   </g>
   <g font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-    <text x="36" y="30" fill="#ff8872" font-size="11" font-weight="700" letter-spacing="2.5">PREDATOR / MITRE ATT&amp;CK</text>
-    <text x="35" y="120" fill="url(#accent)" font-size="82" font-weight="750" letter-spacing="-5">359</text>
+    <text x="36" y="30" fill="#ff8872" font-size="11" font-weight="700" letter-spacing="2.5">PREDATOR / GEN3 CHAIN LIBRARY</text>
+    <text x="35" y="120" fill="url(#accent)" font-size="82" font-weight="750" letter-spacing="-5">396</text>
     <text x="238" y="85" fill="#f5f3f3" font-size="24" font-weight="700" letter-spacing="-0.7">Modeled attack chains</text>
-    <text x="239" y="110" fill="#b7b9c1" font-size="13">Threat paths for focused CVE investigation</text>
-    <text x="37" y="158" fill="#dad7d9" font-size="11.5" font-weight="600">14 Enterprise tactics</text>
+    <text x="239" y="110" fill="#b7b9c1" font-size="13">Audited Gen3 registry · Sep 2026</text>
+    <text x="37" y="158" fill="#dad7d9" font-size="11.5" font-weight="600">15 Enterprise tactics</text>
     <circle cx="225" cy="154" r="2" fill="#ff806a"/>
-    <text x="239" y="158" fill="#dad7d9" font-size="11.5" font-weight="600">AI injection area</text>
+    <text x="239" y="158" fill="#dad7d9" font-size="11.5" font-weight="600">AI + MCP extensions</text>
     <circle cx="407" cy="154" r="2" fill="#ff806a"/>
     <text x="421" y="158" fill="#a5a9b4" font-size="11.5">Coverage follows the agreed scope</text>
   </g>
