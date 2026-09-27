@@ -47,7 +47,7 @@
     </tr>
     <tr>
       <td><strong>Security &amp; research</strong></td>
-      <td><a href="https://github.com/AetherAI3/predator-cli">Predator</a> · <a href="https://github.com/AetherAI3/PROTOCOL-C">Protocol-C</a></td>
+      <td><a href="https://github.com/AetherAI3/Predator">Predator</a> · <a href="https://github.com/AetherAI3/PROTOCOL-C">Protocol-C</a></td>
     </tr>
     <tr>
       <td><strong>Websites</strong></td>
@@ -67,7 +67,7 @@
 <h2 align="center">Predator Strikes</h2>
 
 <p align="center">
-  <a href="https://aethersystems.net/defense-stack#defense-stack"><img src="./assets/predator-attack-chains.svg" alt="Predator models 359 attack chains across MITRE ATT&amp;CK; each mission follows its agreed scope" width="704"></a>
+  <a href="https://github.com/AetherAI3/Predator#attack-chain-coverage"><img src="./assets/predator-attack-chains.svg" alt="Predator's Gen3 registry models 396 attack chains across Enterprise ATT&amp;CK and AI/MCP extensions; each mission follows its agreed scope" width="704"></a>
 </p>
 
 <p align="center">
