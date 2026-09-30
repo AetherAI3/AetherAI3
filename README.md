@@ -33,28 +33,6 @@
   </a>
 </p>
 
-<table align="center">
-  <thead>
-    <tr>
-      <th align="left" scope="col">Focus</th>
-      <th align="left" scope="col">Explore</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>AI &amp; developer tools</strong></td>
-      <td><a href="https://github.com/AetherAI3/aether-agent">Agent</a> · <a href="https://github.com/AetherAI3/Cloud-Desktop">Cloud</a> · <a href="https://github.com/AetherAI3/Unlimited-Context-LLM">Unlimited Context</a></td>
-    </tr>
-    <tr>
-      <td><strong>Security &amp; research</strong></td>
-      <td><a href="https://github.com/AetherAI3/Predator">Predator</a> · <a href="https://github.com/AetherAI3/PROTOCOL-C">Protocol-C</a></td>
-    </tr>
-    <tr>
-      <td><strong>Websites</strong></td>
-      <td><a href="https://aethersites.net/">Aether Sites</a></td>
-    </tr>
-  </tbody>
-</table>
 
 <p align="center">
   <a href="https://aethersystems.net/aether-online"><img src="./assets/badges/online.svg" alt="Open Aether Online" width="106" height="30"></a>
