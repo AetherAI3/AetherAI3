@@ -45,10 +45,10 @@
 <h2 align="center">Predator Strikes</h2>
 
 <p align="center">
-  <a href="https://github.com/AetherAI3/Predator#attack-chain-coverage"><img src="./assets/predator-attack-chains.svg" alt="Predator's Gen3 research registry models 416 attack chains across 18 internal routing buckets as of September 30, 2026; this is not a customer finding count" width="704"></a>
+  <a href="https://github.com/AetherAI3/Predator#attack-chain-coverage"><img src="./assets/predator-attack-chains.svg" alt="Predator's Gen3 research registry models 421 attack chains across 18 internal routing buckets as of October 10, 2026; this is not a customer finding count" width="704"></a>
 </p>
 
-<p align="center"><sub>416 modeled chains · 18 internal routing buckets · 15 ATT&amp;CK Enterprise tactics. Model-library coverage, not customer findings or a guarantee for every mission.</sub></p>
+<p align="center"><sub>421 modeled chains · 18 internal routing buckets · 15 current ATT&amp;CK Enterprise tactics. Model-library coverage, not customer findings or a guarantee for every mission.</sub></p>
 
 <p align="center">
   Fix a known CVE or search for a fresh variant in one authorized repo.<br>
